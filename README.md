@@ -1,0 +1,1 @@
+Place/Replace the files here: Steam\steamapps\common\dota 2 beta\game\dota\cfg
